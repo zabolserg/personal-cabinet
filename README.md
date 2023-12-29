@@ -1,5 +1,6 @@
 # Personal Cabinet
 
+It's just a test project. So there are only base steps in this file.
 This project is a personal account for a natural gas consumers. The account allows you to transmit gas meter readings, receive bills, see statistics of readings and payments.
 
 ## System Requirements
